@@ -1,0 +1,8 @@
+title: Yrouel.GitHub.io
+description: Yrouel Github`s Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
